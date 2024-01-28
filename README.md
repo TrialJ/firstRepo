@@ -1,5 +1,5 @@
 Just some notes
-
+repoAddress:  git@github.com:TrialJ/firstRepo.git
 Add default value to component with or || operator. 
 exp. 
 <h3>User: {state.user[state.count] && "No assigned user. Index: " + state.count}</h3>
